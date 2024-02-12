@@ -16,9 +16,9 @@ user experience in discovering recipes based on saved ingredients, achieving a 9
 In creating the user interface design for RecipeRadar, we leveraged the capabilities of Figma. The result was a streamlined, contemporary layout that effectively communicated the fridge concept we were trying to replicate. The user's items are stored in the fridge, shown in the design as an intuitive way for the user to interact with the website.
 <img src="/Images/Home.png" alt="Alt text" title="Optional title">
 <img src="/Images/Fridge.png" alt="Alt text" title="Optional title">
-<img src="/Images/TypeIngredient.png.png" alt="Alt text" title="Optional title">
+<img src="/Images/TypeIngredient.png" alt="Alt text" title="Optional title">
 <img src="/Images/RecipeRecommendation.png" alt="Alt text" title="Optional title">
-<img src="/Images/TypeRecipe.png.png" alt="Alt text" title="Optional title">
+<img src="/Images/TypeRecipe.png" alt="Alt text" title="Optional title">
 
 ### Built With
 [![React][React.js]][React-url]
